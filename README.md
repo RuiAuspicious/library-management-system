@@ -1,2 +1,4 @@
-# library-management-system
+# 图书馆管理系统
 随手做的小玩意1
+用于学习面向C++对象程序设计与Qt
+在做ing
